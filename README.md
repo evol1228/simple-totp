@@ -1,3 +1,5 @@
+## pure ai code but amazing tool 
+
 # TOTP Authenticator
 
 A lightweight, standalone TOTP (Time-based One-Time Password) generator built with Python and tkinter. Syncs with network time for accuracy.
