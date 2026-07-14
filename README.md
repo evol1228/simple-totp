@@ -4,8 +4,9 @@
   <strong>A standalone desktop 2FA code generator — pure Python standard library, no accounts, no cloud.</strong>
 </p>
 
-<!-- TODO: Add a screenshot -->
-<!-- ![Simple TOTP](assets/screenshot.png) -->
+<p align="center">
+  <img src="assets/screenshot.png" alt="Simple TOTP" width="320" />
+</p>
 
 ---
 
